@@ -1,0 +1,6 @@
+wget -nc http://ftp.de.debian.org/debian/pool/main/g/glibc/libc6_2.19-13_amd64.deb
+wget -nc http://ftp.de.debian.org/debian/pool/main/r/r-cran-minqa/r-cran-minqa_1.2.4-1_amd64.deb
+wget -nc http://ftp.de.debian.org/debian/pool/main/l/lme4/r-cran-lme4_1.1-7-1_amd64.deb
+wget -nc http://ftp.de.debian.org/debian/pool/main/g/gcc-4.9/libstdc++6_4.9.2-8_amd64.deb
+wget -nc http://ftp.de.debian.org/debian/pool/main/r/rcpp/r-cran-rcpp_0.11.3-1_amd64.deb
+wget -nc http://ftp.de.debian.org/debian/pool/main/r/r-cran-rcppeigen/r-cran-rcppeigen_0.3.2.2.0-1_amd64.deb
